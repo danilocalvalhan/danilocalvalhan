@@ -1,4 +1,10 @@
-### Hi there 👋
+### Olá, bem-vindo ao meu repositório pessoal! :bowtie:
+
+Aqui estão alguns dos meus pequenos projetos em desenvolvimento web. :relaxed:
+
+Meu foco é Front-End - utilizando React - :muscle: , entretetanto alguns projetos são Full-Stack com o backend em diversas linguagens de programação. :wink:
+
+Meu portfólio está em progresso ... :hourglass_flowing_sand:
 
 <!--
 **danilocalvalhan/danilocalvalhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
